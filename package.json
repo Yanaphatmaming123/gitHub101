@@ -1,0 +1,23 @@
+{
+  "name": "67021635",
+  "version": "1.0.0",
+  "description": "ตัวอย่างการใช้ git\r ครั้งที่ 2\r ครั้งที่3\r backcick  `",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanaphatmaming123/gitHub101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanaphatmaming123/gitHub101/issues"
+  },
+  "homepage": "https://github.com/Yanaphatmaming123/gitHub101#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
